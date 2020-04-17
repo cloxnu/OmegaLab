@@ -4,7 +4,9 @@
 
 ![omega](README/omega_title.png)
 
-![lab_logo](README/Lab_logo.png)
+<p align="center">
+<img src="README/Lab_logo.png" height=100>
+</p>
 
 ---
 
