@@ -4,6 +4,8 @@
 
 ![omega](README/omega_title.png)
 
+![lab_logo](README/Lab_logo.png)
+
 ---
 
 ## 🧪 [CNN Visualization](visualize_cnn)
