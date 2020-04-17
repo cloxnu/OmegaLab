@@ -1,10 +1,6 @@
 ![starkidstory](README/starkidstory_title.png)
 
-![omega](README/omega_title.png)
-
-<p align="center">
-<img src="README/Lab_logo.png" height=100>
-</p>
+![omega](README/omega_lab_title.png)
 
 # OmegaLab
 
