@@ -1,6 +1,6 @@
-![starkidstory](README/starkidstory_title.png)
+[![starkidstory](README/starkidstory_title.png)](https://starkidstory.com)
 
-![omega](README/omega_lab_title.png)
+[![omega](README/omega_lab_title.png)](https://starkidstory.com/index.php/category/omega/)
 
 # OmegaLab
 
