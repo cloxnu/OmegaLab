@@ -2,6 +2,10 @@
 
 实现于 [`start.ipynb`](start.ipynb).
 
+Reference: 
+
+[Visualizing and Understanding Convolutional Networks](https://arxiv.org/abs/1311.2901)
+
 ### 1: Convolution 2d
 
 size: (3*3), #filters: 16, output: (192, 192, 16)

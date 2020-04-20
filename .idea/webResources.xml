@@ -6,6 +6,7 @@
         <entryData>
           <resourceRoots>
             <path value="file://$PROJECT_DIR$/dataset" />
+            <path value="file://$PROJECT_DIR$/ai_music_composer/res" />
           </resourceRoots>
         </entryData>
       </entry>
